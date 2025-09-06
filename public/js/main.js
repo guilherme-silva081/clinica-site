@@ -1,0 +1,1 @@
+console.log('Site da clínica em HTML carregado');
